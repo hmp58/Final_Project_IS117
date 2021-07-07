@@ -1,0 +1,9 @@
+/* DEVELOPER: Hiten Patel, IS117-040, Spring 2021 */
+.container h3 {
+    font-size: 1.2rem;
+}
+.container h4 {
+    float: right;
+    font-size: 1.5rem;
+    margin-top: 170px;
+}

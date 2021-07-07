@@ -1,0 +1,40 @@
+/* DEVELOPER: Hiten Patel, IS117-040, Spring 2021 */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.8rem;
+}
+
+.section-header {
+    padding-top: 30px;
+}
+
+.address {
+    padding-left: 50px;
+    padding-right: 700px;
+    padding-top: 1px;
+}
+
+.form-group {
+    padding-left: 500px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    margin-left: 500px;
+    border-radius: 25px;
+    border-width: 0;
+    border-bottom-width: 3px;
+    display: inline-block;
+    padding: 8px 30px;
+}
+
+.container-fluid {
+    background-color: powderblue;
+}
